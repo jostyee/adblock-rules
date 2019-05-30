@@ -1,1 +1,3 @@
 ||btrace.video.qq.com^
+||hm.baidu.com^
+||sp0.baidu.com^
