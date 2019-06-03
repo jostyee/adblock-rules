@@ -2,7 +2,6 @@
 ||hm.baidu.com^
 ||sp0.baidu.com^
 ||tapad.com^
-||google-analytics.com^$third-party
 ||pingfore.qq.com^
 ||tencentmind.com^
 ||adss.video.qq.com^
