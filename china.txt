@@ -1,9 +1,15 @@
-||btrace.video.qq.com^
+||tapad.com^
+!--- baidu ---
 ||hm.baidu.com^
 ||sp0.baidu.com^
-||tapad.com^
+!--- QQ ---
+||btrace.video.qq.com^
 ||pingfore.qq.com^
 ||tencentmind.com^
 ||adss.video.qq.com^
 ||huatuo.qq.com^
 ||dp*.qq.com^
+!--- 163 ---
+||nex.163.com^
+||webstat.ws.126.net^
+||pg-ad-b1.ws.126.net^
