@@ -1,5 +1,6 @@
 ||tapad.com^
 !--- baidu ---
+||gsp0.baidu.com^
 ||hm.baidu.com^
 ||sp0.baidu.com^
 !--- QQ ---
