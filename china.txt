@@ -1,4 +1,3 @@
-||tapad.com^
 !--- baidu ---
 ||cpro.baidu*.com^
 ||gsp0.baidu.com^
@@ -17,3 +16,6 @@
 ||webstat.ws.126.net^
 ||pg-ad-b1.ws.126.net^
 ||vmonitor.ws.netease.com^
+!-----------
+||tapad.com^
+/assets/sidebar/*$domain=v2ex.com
