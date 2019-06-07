@@ -16,6 +16,10 @@
 ||webstat.ws.126.net^
 ||pg-ad-b1.ws.126.net^
 ||vmonitor.ws.netease.com^
+!--- umeng ---
+||umeng.co^
+||umeng.com^
+||umengcloud.com^
 !-----------
 ||tapad.com^
 /assets/sidebar/*$domain=v2ex.com
