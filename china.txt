@@ -1,3 +1,6 @@
+[Adblock Plus 2.0]
+! Version: 201906130731
+! Title: adblock-rules china
 !--- baidu ---
 ||cpro.baidu*.com^
 ||gsp0.baidu.com^
@@ -23,6 +26,8 @@
 !--- zhihu ---
 ||sugar.zhihu.com^
 zhihu.com##.Banner.Card,.shameimaru-section,.Banner-image,.Banner-image
+!--- v2ex ---
+/assets/sidebar/*$domain=v2ex.com
+www.v2ex.com###Rightbar>div.box:nth-of-type(2)~*
 !-----------
 ||tapad.com^
-/assets/sidebar/*$domain=v2ex.com
