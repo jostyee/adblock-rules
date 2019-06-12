@@ -20,6 +20,8 @@
 ||umeng.co^
 ||umeng.com^
 ||umengcloud.com^
+!--- zhihu ---
+||sugar.zhihu.com^
 !-----------
 ||tapad.com^
 /assets/sidebar/*$domain=v2ex.com
