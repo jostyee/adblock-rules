@@ -22,6 +22,7 @@
 ||umengcloud.com^
 !--- zhihu ---
 ||sugar.zhihu.com^
+zhihu.com##.Banner.Card,.shameimaru-section,.Banner-image,.Banner-image
 !-----------
 ||tapad.com^
 /assets/sidebar/*$domain=v2ex.com
