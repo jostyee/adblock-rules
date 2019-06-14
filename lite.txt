@@ -3,6 +3,7 @@
 ! Title: adblock-rules lite
 !--- trackers ---!
 ||crashlytics.com^
+||fls-na.amazon.com^
 !--- BlockAdBlock Trackers ---!
 ||adtrackers.net^
 ||bannertrack.net^
