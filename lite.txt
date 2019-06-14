@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Version: 201906101742
+! Version: 201906141828
 ! Title: adblock-rules lite
 !--- trackers ---!
 ||crashlytics.com^
