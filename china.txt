@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Version: 201906130731
+! Version: 201906171409
 ! Title: adblock-rules china
 !--- baidu ---
 ||cpro.baidu*.com^
@@ -7,6 +7,7 @@
 ||hm.baidu.com^
 ||sp0.baidu.com^
 !--- QQ ---
+||beacon.qq.com^
 ||btrace.video.qq.com^
 ||pingfore.qq.com^
 ||tencentmind.com^
