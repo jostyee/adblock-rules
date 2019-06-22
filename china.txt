@@ -1,19 +1,24 @@
 [Adblock Plus 2.0]
-! Version: 201906171409
+! Version: 201906230740
 ! Title: adblock-rules china
+! Expires: 5 days
 !--- baidu ---
 ||cpro.baidu*.com^
 ||gsp0.baidu.com^
 ||hm.baidu.com^
 ||sp0.baidu.com^
 !--- QQ ---
-||beacon.qq.com^
-||btrace.video.qq.com^
-||pingfore.qq.com^
-||tencentmind.com^
 ||adss.video.qq.com^
-||huatuo.qq.com^
+||beacon.qq.com^
+||btrace.qq.com^
+||btrace.video.qq.com^
 ||dp*.qq.com^
+||huatuo.qq.com^
+||huatuocode.weiyun.com^
+||pingfore.qq.com^
+||pingjs.qq.com^
+||pingtas.qq.com^
+||tencentmind.com^
 !--- 163 ---
 ||analytics.126.net^
 ||analytics.163.com^
