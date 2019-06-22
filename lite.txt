@@ -1,7 +1,8 @@
 [Adblock Plus 2.0]
-! Version: 201906141829
+! Version: 201906221829
 ! Title: adblock-rules lite
 !--- trackers ---!
+||collector.githubapp.com^
 ||crashlytics.com^
 ||fls-*.amazon.com^
 !--- BlockAdBlock Trackers ---!
