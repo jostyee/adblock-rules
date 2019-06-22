@@ -16,6 +16,7 @@
 ||dp*.qq.com^
 !--- 163 ---
 ||analytics.126.net^
+||analytics.163.com^
 ||nex.163.com^
 ||webstat.ws.126.net^
 ||pg-ad-b1.ws.126.net^
