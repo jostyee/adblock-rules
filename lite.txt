@@ -9,4 +9,8 @@
 ||adtrackers.net^
 ||bannertrack.net^
 !--- ads ---!
+||adjust.com^
+||branch.io^
 ||flurry.com^
+||scorecardresearch.com^
+||trafficmanager.net^
