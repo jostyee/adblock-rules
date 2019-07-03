@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Version: 201907030101
+! Version: 201907040101
 ! Title: adblock-rules china
 ! Expires: 5 days
 !--- baidu ---
@@ -21,6 +21,7 @@
 ||pingjs.qq.com^
 ||pingtas.qq.com^
 ||tencentmind.com^
+||trace.qq.com^
 !--- 163 ---
 ||analytics.126.net^
 ||analytics.163.com^
