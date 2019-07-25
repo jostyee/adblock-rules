@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Version: 201906230735
+! Version: 201907251115
 ! Title: adblock-rules lite
 ! Expires: 5 days
 !--- trackers ---!
