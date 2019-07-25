@@ -5,7 +5,6 @@
 !--- trackers ---!
 ||collector.githubapp.com^
 ||crashlytics.com^
-||fls-*.amazon.com^
 !--- BlockAdBlock Trackers ---!
 ||adtrackers.net^
 ||bannertrack.net^
@@ -15,3 +14,4 @@
 ||flurry.com^
 ||scorecardresearch.com^
 ||trafficmanager.net^
+||improving.duckduckgo.com^
