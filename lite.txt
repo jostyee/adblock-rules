@@ -3,6 +3,7 @@
 ! Title: adblock-rules lite
 ! Expires: 5 days
 !--- trackers ---!
+||analytics.plex.tv^
 ||collector.githubapp.com^
 ||crashlytics.com^
 !--- BlockAdBlock Trackers ---!
