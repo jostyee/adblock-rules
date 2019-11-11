@@ -1,11 +1,14 @@
 [Adblock Plus 2.0]
-! Version: 201907251115
+! Version: 201911111916
 ! Title: adblock-rules lite
 ! Expires: 5 days
 !--- trackers ---!
 ||analytics.plex.tv^
+||app-measurement.com^
+||appsflyer.com^
 ||collector.githubapp.com^
 ||crashlytics.com^
+||mixpanel.com^
 !--- BlockAdBlock Trackers ---!
 ||adtrackers.net^
 ||bannertrack.net^
@@ -16,4 +19,3 @@
 ||scorecardresearch.com^
 ||trafficmanager.net^
 ||improving.duckduckgo.com^
-||mixpanel.com^
