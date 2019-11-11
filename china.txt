@@ -14,6 +14,7 @@
 ||beacon.qq.com^
 ||btrace.qq.com^
 ||btrace.video.qq.com^
+||bugly.qq.com^
 ||dp*.qq.com^
 ||huatuo.qq.com^
 ||huatuocode.weiyun.com^
