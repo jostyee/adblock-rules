@@ -16,3 +16,4 @@
 ||scorecardresearch.com^
 ||trafficmanager.net^
 ||improving.duckduckgo.com^
+||mixpanel.com^
