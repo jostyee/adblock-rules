@@ -1,7 +1,10 @@
 [Adblock Plus 2.0]
-! Version: 201911131052
+! Version: 201911131053
 ! Title: adblock-rules lite
 ! Expires: 5 days
+!--- whitelists ---!
+@@||traffic.libsyn.com^
+@@||traffic.megaphone.fm^
 !--- trackers ---!
 ||adobedtm.com^
 ||analytics.plex.tv^
