@@ -7,7 +7,6 @@
 ||gsp0.baidu.com^
 ||hm.baidu.com^
 ||nsclick.baidu.com^
-||shifen.com^
 ||sp0.baidu.com^
 !--- QQ ---
 ||adss.video.qq.com^
