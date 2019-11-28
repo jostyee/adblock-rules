@@ -50,6 +50,7 @@ zhihu.com##.Banner.Card,.shameimaru-section,.Banner-image,.Banner-image
 ||cdn.v2ex.co/assets/sidebar^
 ||cdn.v2ex.com/assets/sidebar^
 !-----------
+||aes01.com^
 ||share.dmhy.org^*?$image
 ||tapad.com^
 ||static.anquan.org^
