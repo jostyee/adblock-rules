@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Version: 201907181411
+! Version: 201911281157
 ! Title: adblock-rules china
 ! Expires: 5 days
 !--- baidu ---
