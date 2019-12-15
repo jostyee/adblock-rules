@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Version: 201911301407
+! Version: 201912151553
 ! Title: adblock-rules lite
 ! Expires: 5 days
 !--- whitelists ---!
@@ -28,3 +28,5 @@
 ||scorecardresearch.com^
 ||trafficmanager.net^
 ||improving.duckduckgo.com^
+!--- regex ---!
+/^telemetry?[-.]/
