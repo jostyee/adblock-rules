@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Version: 201912291229
+! Version: 202001011726
 ! Title: adblock-rules china
 ! Expires: 5 days
 !--- baidu ---
@@ -43,6 +43,7 @@
 ||umengcloud.com^
 !--- zhihu ---
 ||sugar.zhihu.com^
+||zhihu-web-analytics.zhihu.com^
 zhihu.com##.Banner.Card,.shameimaru-section,.Banner-image,.Banner-image
 !--- v2ex ---
 ||cdn.v2ex.co/assets^
