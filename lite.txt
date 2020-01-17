@@ -7,6 +7,7 @@
 @@||traffic.megaphone.fm^
 !--- trackers ---!
 ||firebaselogging.googleapis.com^
+||gsacollections-pa.googleapis.com^
 ||mail-ads.google.com^
 ||adobedtm.com^
 ||analytics.plex.tv^
