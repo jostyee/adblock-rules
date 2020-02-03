@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Version: 202001171821
+! Version: 202002031457
 ! Title: adblock-rules lite
 ! Expires: 5 days
 !--- whitelists ---!
@@ -7,6 +7,7 @@
 @@||traffic.megaphone.fm^
 !--- trackers ---!
 ||firebaselogging.googleapis.com^
+||firebaselogging-pa.googleapis.com^
 ||gsacollections-pa.googleapis.com^
 ||mail-ads.google.com^
 ||adobedtm.com^
