@@ -21,6 +21,7 @@
 ||demdex.net^
 ||mixpanel.com^
 ||omtrdc.net^
+||advertising.yahoo.com^
 !--- BlockAdBlock Trackers ---!
 ||adtrackers.net^
 ||bannertrack.net^
