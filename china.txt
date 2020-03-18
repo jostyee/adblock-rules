@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Version: 202003181426
+! Version: 202003181919
 ! Title: adblock-rules china
 ! Expires: 5 days
 !--- baidu ---
@@ -32,6 +32,7 @@
 ||pg-ad-b1.ws.126.net^
 ||vmonitor.ws.netease.com^
 !--- alibaba ---
+||err.taobao.com^
 ||loggw.alipay.com^
 ||umdc.aliapp.org^
 ||mmstat.com^
