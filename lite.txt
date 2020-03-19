@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Version: 202003192041
+! Version: 202003192044
 ! Title: adblock-rules lite
 ! Expires: 5 days
 !--- whitelists ---!
@@ -38,5 +38,6 @@
 ||impact-ad.jp^
 ||scorecardresearch.com^
 ||trafficmanager.net^
+||upapi.net^$third-party
 !--- regex ---!
 /^telemetry?[-.]/
