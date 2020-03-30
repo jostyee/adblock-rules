@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Version: 202003192044
+! Version: 202003301140
 ! Title: adblock-rules lite
 ! Expires: 5 days
 !--- whitelists ---!
@@ -24,6 +24,7 @@
 ||advertising.yahoo.com^
 ||cdn.syndication.twimg.com^
 ||syndication.twitter.com^
+||smetrics.oreilly.com^
 !--- BlockAdBlock Trackers ---!
 ||adtrackers.net^
 ||bannertrack.net^
