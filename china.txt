@@ -67,3 +67,4 @@ zhihu.com##.Banner.Card,.shameimaru-section,.Banner-image,.Banner-image
 ||xlog.snssdk.com^
 ||ic.snssdk.com^
 ||sbeacon.sina.com.cn^
+||cm.bilibili.com^
