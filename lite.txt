@@ -39,7 +39,6 @@
 ||improving.duckduckgo.com^
 ||impact-ad.jp^
 ||scorecardresearch.com^
-||trafficmanager.net^
 ||upapi.net^$third-party
 !--- regex ---!
 /^telemetry?[-.]/
