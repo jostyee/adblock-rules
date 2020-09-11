@@ -9,8 +9,6 @@
 ||firebaselogging.googleapis.com^
 ||firebaselogging-pa.googleapis.com^
 ||gsacollections-pa.googleapis.com^
-||static-doubleclick-net.l.google.com^
-||mail-ads.google.com^
 ||adobedtm.com^
 ||analytics.plex.tv^
 ||app-measurement.com^
@@ -31,6 +29,10 @@
 ||adtrackers.net^
 ||bannertrack.net^
 !--- ads ---!
+||googleads.g.doubleclick.net^
+||static.doubleclick.net^
+||static-doubleclick-net.l.google.com^
+||mail-ads.google.com^
 ||360yield.com^
 ||adjust.com^
 ||adtechjp.com^
