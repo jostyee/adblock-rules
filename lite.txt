@@ -9,6 +9,7 @@
 ||firebaselogging.googleapis.com^
 ||firebaselogging-pa.googleapis.com^
 ||gsacollections-pa.googleapis.com^
+||static-doubleclick-net.l.google.com^
 ||mail-ads.google.com^
 ||adobedtm.com^
 ||analytics.plex.tv^
